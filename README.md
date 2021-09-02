@@ -14,8 +14,8 @@ Here are some ideas to get you started:<br>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img align= "left" src="https://github-readme-stats.vercel.app/api?username=ranjanpandey984&&show_icons=true&title_color=000&icon_color=bb2acf&text_color=000&bg_color=FFFEFE">
-<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanpandey984&layout=compact">
-<br><br><br><br><br><br><br><br><br><br>
+<img  src="https://github-readme-stats.vercel.app/api?username=ranjanpandey984&&show_icons=true&title_color=000&icon_color=bb2acf&text_color=000&bg_color=FFFEFE">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanpandey984&layout=compact">
+
 <div align="center"><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/><img width="55" style="padding-right:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sqlite.svg"/></div>
 
