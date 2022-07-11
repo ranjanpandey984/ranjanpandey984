@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:<br>
 - 🔭 I’m currently working on personal projects.<br>
-- 🌱 I’m good in laravel and looking forward to learn asp.net<br>
+- 🌱 I’m good in laravel and looking forward to learn asp.net core<br>
 - 👯 I’m looking to collaborate on some web projects.<br>
 - 🤔 I’m looking for help with learning backend.<br>
 - 💬 Ask me about myself on my social handles.<br>
